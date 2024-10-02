@@ -411,3 +411,6 @@ Schwab, K. (2016). The Fourth Industrial Revolution. World Economic Forum.
 
 Formula 1 acelera com AWS. Amazon Web Services. Disponível em: https://aws.amazon.com/solutions/case-studies/formula-one/
 Acesso em 25 de Setembro de 2024
+
+How AWS is changing the game. Disponível em: https://bafsh8utoqim.s3.us-east-2.amazonaws.com/AWS+Sports/How+AWS+is+changing+the+game.pdf
+Acesso em 25 de Setembro de 2024
